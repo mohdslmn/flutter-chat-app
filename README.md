@@ -1,4 +1,5 @@
-#Flutter Chat App
+<h1>Flutter Chat App</h1
+>
 
 <h1>Overview</h1>
 This Flutter app is a real-time chat application that allows users to log in, view a list of conversations, and chat with other users. The app communicates with a Strapi backend using REST APIs for user authentication and message storage. Socket.IO is used for real-time message exchange.
@@ -27,7 +28,9 @@ cd flutter-chat-app
 flutter pub get
 
 ##Start the Flutter app:
+
 flutter run
+
 Ensure your Strapi backend is running and accessible.
 
 <h1>Dependencies</h1>
